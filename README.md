@@ -4,10 +4,10 @@
 
 | 프로그램 | 하는 일 | 받기 |
 |---|---|---|
-| **KeyCanto** | 텍스트 악보·MIDI 파일을 게임 속 피아노로 자동 연주 | [Releases](../../releases/latest) 의 `KeyCanto-1.0.0-Setup.exe` (약 13MB) |
-| **KeyCanto Scribe** | 노래·피아노 음악 파일을 MIDI 와 KeyCanto 악보로 변환 | [Releases](../../releases/latest) 의 `KeyCantoScribe-1.0.0-Setup.exe` (약 315MB) |
+| **KeyCanto** | 텍스트 악보·MIDI 파일을 게임 속 피아노로 자동 연주 | [Releases](../../releases/latest) 의 `KeyCanto-1.1.0-Setup.exe` (약 15MB) |
+| **KeyCanto Scribe** | 노래·피아노 음악 파일을 MIDI 와 KeyCanto 악보로 변환 | [Releases](../../releases/latest) 의 `KeyCantoScribe-1.1.0-Setup.exe` (약 315MB) |
 
-Windows 10/11 64비트용입니다.
+Windows 10/11 64비트용입니다. 1.1.0 부터 새 디자인(밝게·어둡게 테마)이에요. 예전 1.0.0 은 [Releases](../../releases) 에 남아 있어요.
 
 ## 경고 창이 떠도 놀라지 마세요
 
@@ -23,8 +23,8 @@ Windows 10/11 64비트용입니다.
 
 | 파일 | SHA-256 |
 |---|---|
-| KeyCanto-1.0.0-Setup.exe | `94aaa4631411d3c1c2575d65263e1ab04ba4b977a54d2aa28571a91f039de5c2` |
-| KeyCantoScribe-1.0.0-Setup.exe | `4741668d00720ab7267ee43d6c6bf0467ae6f879e266454fa6f9f421267196e4` |
+| KeyCanto-1.1.0-Setup.exe | `f8038ff9d846a859016e69e75803a1078ffdfa1ab4a0c0b48b4965ddb899e628` |
+| KeyCantoScribe-1.1.0-Setup.exe | `642603ee54745f8988f01d66d9c9c3e5df2a3b896f8abc5300831fc93afc0bfb` |
 
 ## 사용법
 
